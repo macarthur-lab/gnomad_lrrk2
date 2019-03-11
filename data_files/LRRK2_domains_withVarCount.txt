@@ -1,0 +1,9 @@
+Domain	Size	Variants
+LRR	945	13
+None	903	15
+Kinase	802	13
+ANK	547	7
+COR	1130	20
+ROC	555	8
+ARM	1804	14
+WD40	1103	22
