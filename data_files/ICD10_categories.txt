@@ -1,0 +1,61 @@
+Code_group	Description	Category	Include
+K70	Alcoholic liver disease	Liver	N
+K71	Toxic liver disease	Liver	N
+K72	Hepatic failure, not elsewhere classified	Liver	Y
+K73	Chronic hepatitis, not elsewhere classified	Liver	Y
+K74	Fibrosis and cirrhosis of liver	Liver	Y
+K75	Other inflammatory liver diseases	Liver	Y
+K76	Other diseases of liver	Liver	Y
+K77	Liver disorders in diseases classified elsewhere	Liver	Y
+J20	Acute brochitis	Lung	N
+J21	Acute brochiolitis	Lung	N
+J22	Unspecified acute lower respiratory infection	Lung	N
+J40	Bronchitis, not specified as acute or chronic	Lung	N
+J41	Simple and mucopurulent chronic bronchitis	Lung	N
+J42	Unspecified chronic bronchitis	Lung	N
+J43	Emphysema	Lung	Y
+J44	Other chronic obstructive pulmonary disease	Lung	Y
+J45	Asthma	Lung	N
+J47	Bronchiectasis	Lung	Y
+J80	Acute respiratory distress syndrome	Lung	Y
+J81	Pulmonary edema	Lung	Y
+J82	Pulmonary eosinophilia, not elsewhere classified	Lung	Y
+J84	Other interstitial pulmonary diseases	Lung	Y
+J85	Abscess of lung and mediastinum	Lung	N
+J86	Pyothorax	Lung	N
+J90	Pleural effusion, not elsewhere classified	Lung	Y
+J91	Pleural effusion in conditions classified elsewhere	Lung	Y
+J92	Pleural plaque	Lung	Y
+J93	Pneumothorax and air leak	Lung	Y
+J94	Other pleural conditions	Lung	Y
+J96	Respiratory failure, not elsewhere classified	Lung	Y
+J98	Other respiratory disorders	Lung	Y
+J99	Respiratory disorders in diseases classified elsewhere	Lung	Y
+N00	Acute nephritic syndrome	Kidney	Y
+N01	Rapidly progressive nephritic syndrome	Kidney	Y
+N02	Recurrent and persistent hematuria	Kidney	Y
+N03	Chronic nephritic syndrome	Kidney	Y
+N04	Nephrotic syndrome	Kidney	Y
+N05	Unspecified nephritic syndrome	Kidney	Y
+N06	Isolated proteinuria with specified morphological lesion	Kidney	Y
+N07	Hereditary nephropathy, not elsewhere classified	Kidney	Y
+N08	Glomerular disorders in diseases classified elsewhere	Kidney	Y
+N10	Acute pyelonephritis	Kidney	N
+N11	Chronic tubulo-interstitial nephritis	Kidney	N
+N12	Tubulo-interstitial nephritis, not specified as acute or chronic	Kidney	N
+N13	Obstructive and reflux uropathy	Kidney	Y
+N14	Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions	Kidney	N
+N15	Other renal tubulo-interstitial diseases	Kidney	Y
+N16	Renal tubulo-interstitial disorders in diseases classified elsewhere	Kidney	Y
+N17	Acute kidney failure	Kidney	Y
+N18	Chronic kidney disease (CKD)	Kidney	Y
+N19	Unspecified kidney failure	Kidney	Y
+N20	Calculus of kidney and ureter	Kidney	Y
+N21	Calculus of lower urinary tract	Kidney	N
+N22	Calculus of urinary tract in diseases classified elsewhere	Kidney	N
+N23	Unspecified renal colic	Kidney	Y
+N25	Disorders resulting from impaired renal tubular function	Kidney	Y
+N26	Unspecified contracted kidney	Kidney	Y
+N27	Small kidney of unknown cause	Kidney	Y
+N28	Other disorders of kidney and ureter, not elsewhere classified	Kidney	Y
+N29	Other disorders of kidney and ureter in diseases classified elsewhere	Kidney	Y
