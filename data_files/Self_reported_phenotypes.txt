@@ -1,0 +1,446 @@
+Coding	Meaning	Primary_group	Secondary_group
+1065	hypertension	Cardiovascular	
+1066	heart/cardiac problem	Cardiovascular	
+1067	peripheral vascular disease	Cardiovascular	
+1068	venous thromboembolic disease	Haematological	
+1072	essential hypertension	Cardiovascular	
+1073	gestational hypertension/pre-eclampsia	Other	
+1074	angina	Cardiovascular	
+1075	heart attack/myocardial infarction	Cardiovascular	
+1076	heart failure/pulmonary odema	Cardiovascular	
+1077	heart arrhythmia	Cardiovascular	
+1078	heart valve problem/heart murmur	Cardiovascular	
+1079	cardiomyopathy	Cardiovascular	
+1080	pericardial problem	Cardiovascular	
+1081	stroke	Cardiovascular	
+1082	transient ischaemic attack (tia)	Cardiovascular	
+1083	subdural haemorrhage/haematoma	Cardiovascular	
+1086	subarachnoid haemorrhage	Cardiovascular	
+1087	leg claudication/ intermittent claudication	Cardiovascular	
+1088	arterial embolism	Cardiovascular	
+1093	pulmonary embolism +/- dvt	Haematological	
+1094	deep venous thrombosis (dvt)	Haematological	
+1111	asthma	Respiratory	Airway
+1112	chronic obstructive airways disease/copd	Respiratory	Airway
+1113	emphysema/chronic bronchitis	Respiratory	Airway
+1114	bronchiectasis	Respiratory	Airway
+1115	interstitial lung disease	Respiratory	Interstitial
+1117	other respiratory problems	Respiratory	
+1120	asbestosis	exclude	
+1121	pulmonary fibrosis	Respiratory	Interstitial
+1122	fibrosing alveolitis/unspecified alveolitis	Respiratory	Interstitial
+1123	sleep apnoea	Respiratory	Otolaryngological
+1124	respiratory failure	Respiratory	
+1125	pleurisy	Respiratory	Pleural
+1126	spontaneous pneumothorax/recurrent pneumothorax	Respiratory	Pleural
+1134	oesophageal disorder	Gastrointestinal	
+1135	stomach disorder	Gastrointestinal	
+1136	liver/biliary/pancreas problem	Gastrointestinal	
+1137	other abdominal problem	Gastrointestinal	
+1138	gastro-oesophageal reflux (gord) / gastric reflux	Gastrointestinal	
+1139	oesophagitis/barretts oesophagus	Gastrointestinal	
+1140	oesophageal stricture	Gastrointestinal	
+1141	oesophageal varicies	Gastrointestinal	
+1142	gastric/stomach ulcers	Gastrointestinal	
+1143	gastritis/gastric erosions	Gastrointestinal	
+1154	irritable bowel syndrome	Gastrointestinal	
+1155	hepatitis	Gastrointestinal	Hepatobiliary
+1156	infective/viral hepatitis	exclude	
+1157	non-infective hepatitis	Gastrointestinal	Hepatobiliary
+1158	liver failure/cirrhosis	Gastrointestinal	Hepatobiliary
+1159	bile duct disease	Gastrointestinal	Hepatobiliary
+1160	bile duct obstruction/ascending cholangitis	Gastrointestinal	Hepatobiliary
+1161	gall bladder disease	Gastrointestinal	Hepatobiliary
+1162	cholelithiasis/gall stones	Gastrointestinal	Hepatobiliary
+1163	cholecystitis	Gastrointestinal	Hepatobiliary
+1164	pancreatic disease	Gastrointestinal	
+1165	pancreatitis	Gastrointestinal	
+1190	peritonitis	Gastrointestinal	
+1191	gastrointestinal bleeding	Gastrointestinal	
+1192	renal/kidney failure	Renal	
+1193	renal failure requiring dialysis	Renal	
+1194	renal failure not requiring dialysis	Renal	
+1196	urinary tract infection/kidney infection	Urological	
+1197	kidney stone/ureter stone/bladder stone	Urological	
+1200	ureteric obstruction/hydronephrosis	Urological	
+1201	bladder problem (not cancer)	Urological	
+1202	urinary frequency / incontinence	Urological	
+1207	prostate problem (not cancer)	Urological	
+1210	scrotal problem (not cancer)	Urological	
+1214	testicular problems (not cancer)	Urological	
+1220	diabetes	Endocrine	
+1221	gestational diabetes	Other	
+1222	type 1 diabetes	Endocrine	
+1223	type 2 diabetes	Endocrine	
+1224	thyroid problem (not cancer)	Endocrine	
+1225	hyperthyroidism/thyrotoxicosis	Endocrine	
+1226	hypothyroidism/myxoedema	Endocrine	
+1228	thyroid radioablation therapy	Endocrine	
+1229	parathyroid gland problem (not cancer)	Endocrine	
+1230	parathyroid hyperplasia/adenoma	exclude	
+1232	disorder of adrenal gland	Endocrine	
+1233	adrenal tumour	exclude	
+1234	adrenocortical insufficiency/addison's disease	Endocrine	
+1235	hyperaldosteronism/conn's syndrome	Endocrine	
+1236	phaeochromocytoma	exclude	
+1237	disorder or pituitary gland	Endocrine	
+1238	pituitary adenoma/tumour	exclude	
+1239	cushings syndrome	Endocrine	
+1240	neurological injury/trauma	exclude	
+1242	eye/eyelid problem	Opthalmological	
+1243	psychological/psychiatric problem	exclude	
+1244	infection of nervous system	exclude	
+1245	brain abscess/intracranial abscess	exclude	
+1246	encephalitis	Neurological	
+1247	meningitis	exclude	
+1248	spinal abscess	exclude	
+1249	cranial nerve problem/palsy	Neurological	
+1250	bell's palsy/facial nerve palsy	Neurological	
+1251	spinal cord disorder	Neurological	
+1252	paraplegia	Neurological	
+1254	peripheral nerve disorder	Neurological	
+1255	peripheral neuropathy	Neurological	
+1256	acute infective polyneuritis/guillain-barre syndrome	Neurological	Autoimmune
+1257	trapped nerve/compressed nerve	Other	
+1258	chronic/degenerative neurological problem	Neurological	
+1259	motor neurone disease	Neurological	
+1260	myasthenia gravis	Neurological	Autoimmune
+1261	multiple sclerosis	Neurological	
+1262	parkinsons disease	Neurological	
+1263	dementia/alzheimers/cognitive impairment	Neurological	
+1264	epilepsy	Neurological	
+1265	migraine	Neurological	
+1266	head injury	exclude	
+1267	spinal injury	exclude	
+1274	eye infection	exclude	
+1275	retinal problem	Opthalmological	
+1276	diabetic eye disease	Endocrine	Opthalmological
+1277	glaucoma	Opthalmological	
+1278	cataract	Opthalmological	
+1279	eye trauma	exclude	
+1281	retinal detachment	Opthalmological	
+1282	retinal artery/vein occlusion	Cardiovascular	
+1286	depression	exclude	
+1287	anxiety/panic attacks	exclude	
+1288	nervous breakdown	exclude	
+1289	schizophrenia	exclude	
+1290	deliberate self-harm/suicide attempt	exclude	
+1291	mania/bipolar disorder/manic depression	exclude	
+1293	bone disorder	Rheumatological	
+1294	back problem	Rheumatological	
+1295	joint disorder	Rheumatological	
+1297	muscle/soft tissue problem	Rheumatological	
+1308	osteomyelitis	exclude	
+1309	osteoporosis	Rheumatological	
+1310	paget's disease	Rheumatological	
+1311	spine arthritis/spondylitis	Rheumatological	
+1312	prolapsed disc/slipped disc	Rheumatological	
+1313	ankylosing spondylitis	Rheumatological	Autoimmune
+1322	myositis/myopathy	Rheumatological	
+1327	low platelets/platelet disorder	Haematological	
+1328	haemophilia	Haematological	
+1330	iron deficiency anaemia	Haematological	
+1331	pernicious anaemia	Gastrointestinal	Autoimmune
+1332	aplastic anaemia	Haematological	
+1339	sickle cell disease	Haematological	
+1340	thalassaemia	Haematological	
+1344	stevens johnson syndrome	Dermatological	
+1345	pemphigoid/pemphigus	Dermatological	
+1348	gynaecological disorder (not cancer)	Gynaecological	
+1349	ovarian cyst or cysts	Gynaecological	
+1350	polycystic ovaries/polycystic ovarian syndrome	Gynaecological	
+1351	uterine fibroids	Gynaecological	
+1352	uterine polyps	Gynaecological	
+1353	vaginal prolapse/uterine prolapse	Gynaecological	
+1364	breast disease (not cancer)	Gynaecological	
+1366	fibrocystic disease	Gynaecological	
+1367	breast cysts	Gynaecological	
+1371	sarcoidosis	Other	
+1372	vasculitis	Rheumatological	Autoimmune
+1373	connective tissue disorder	Rheumatological	Autoimmune
+1374	allergy/hypersensitivity/anaphylaxis	Allergy	
+1376	giant cell/temporal arteritis	Rheumatological	
+1377	polymyalgia rheumatica	Rheumatological	Autoimmune
+1378	wegners granulmatosis	Rheumatological	Autoimmune
+1379	microscopic polyarteritis	Rheumatological	Autoimmune
+1380	polyartertis nodosa	Rheumatological	Autoimmune
+1381	systemic lupus erythematosis/sle	Rheumatological	Autoimmune
+1382	sjogren's syndrome/sicca syndrome	Rheumatological	Autoimmune
+1383	dermatopolymyositis	Rheumatological	
+1384	scleroderma/systemic sclerosis	Rheumatological	Autoimmune
+1385	allergy or anaphylactic reaction to food	Allergy	
+1386	allergy or anaphylactic reaction to drug	Allergy	
+1387	hayfever/allergic rhinitis	Otolaryngological	Allergy
+1394	peripheral nerve injury	exclude	
+1396	enlarged prostate	Urological	
+1397	other demyelinating disease (not multiple sclerosis)	Neurological	
+1398	pneumonia	exclude	
+1400	peptic ulcer	Gastrointestinal	
+1402	endometriosis	Gynaecological	
+1403	female infertility	Gynaecological	
+1404	male infertility	Urological	
+1405	other renal/kidney problem	Renal	
+1406	muscle or soft tissue injuries	exclude	
+1407	burns	exclude	
+1408	alcohol dependency	exclude	
+1409	opioid dependency	exclude	
+1410	other substance abuse/dependency	exclude	
+1411	lung abscess	exclude	
+1412	bronchitis	Respiratory	Airway
+1413	nasal/sinus disorder	Otolaryngological	
+1414	throat or larynx disorder	Otolaryngological	
+1415	ear/vestibular disorder	Otolaryngological	
+1416	chronic sinusitis	Otolaryngological	
+1417	nasal polyps	Otolaryngological	
+1418	chronic laryngitis	Otolaryngological	
+1419	vocal cord polyp	Otolaryngological	
+1420	otosclerosis	Otolaryngological	
+1421	meniere's disease	Otolaryngological	
+1425	cerebral aneurysm	Cardiovascular	
+1426	myocarditis	Cardiovascular	
+1427	polycystic kidney	Renal	
+1428	thyroiditis	Endocrine	
+1429	acromegaly	Endocrine	
+1430	hypopituitarism	Endocrine	
+1431	hyperprolactinaemia	Endocrine	
+1432	carcinoid syndrome/tumour	exclude	
+1433	cerebral palsy	Neurological	
+1434	other neurological problem	Neurological	
+1435	optic neuritis	Neurological	
+1436	headaches (not migraine)	exclude	
+1437	myasthenia gravis	Neurological	Autoimmune
+1438	polycythaemia vera	Haematological	
+1439	hiv/aids	exclude	
+1440	tuberculosis (tb)	exclude	
+1441	malaria	exclude	
+1442	helicobacter pylori	exclude	
+1443	schistosomiasis/bilharzia	exclude	
+1445	clotting disorder/excessive bleeding	Haematological	
+1446	anaemia	Haematological	
+1447	pancytopenia	Haematological	
+1448	neutropenia/lymphopenia	Haematological	
+1449	myeloproliferative disorder	Haematological	
+1450	monoclonal gammopathy/not myeloma	Haematological	
+1451	hereditary/genetic haematological disorder	Haematological	
+1452	eczema/dermatitis	Dermatological	
+1453	psoriasis	Dermatological	
+1454	blistering/desquamating skin disorder	Dermatological	
+1455	chronic skin ulcers	Dermatological	
+1456	malabsorption/coeliac disease	Gastrointestinal	
+1457	duodenal ulcer	Gastrointestinal	
+1458	diverticular disease/diverticulitis	Gastrointestinal	
+1459	colitis/not crohns or ulcerative colitis	Gastrointestinal	
+1460	rectal or colon adenoma/polyps	Gastrointestinal	
+1461	inflammatory bowel disease	Gastrointestinal	Autoimmune
+1462	crohns disease	Gastrointestinal	Autoimmune
+1463	ulcerative colitis	Gastrointestinal	Autoimmune
+1464	rheumatoid arthritis	Rheumatological	Autoimmune
+1465	osteoarthritis	Rheumatological	
+1466	gout	Rheumatological	
+1467	other joint disorder	Rheumatological	
+1468	diabetic neuropathy/ulcers	Endocrine	Neurological
+1469	post-traumatic stress disorder	exclude	
+1470	anorexia/bulimia/other eating disorder	exclude	
+1471	atrial fibrillation	Cardiovascular	
+1472	emphysema	Respiratory	Airway
+1473	high cholesterol	Cardiovascular	
+1474	hiatus hernia	Abdominal	
+1475	sclerosing cholangitis	Gastrointestinal	Hepatobiliary
+1476	sciatica	Rheumatological	
+1477	psoriatic arthropathy	Rheumatological	Autoimmune
+1478	cervical spondylosis	Rheumatological	
+1479	rheumatic fever	exclude	
+1480	dermatomyositis	Rheumatological	
+1481	polymyositis	Rheumatological	
+1482	chronic fatigue syndrome	Rheumatological	
+1483	atrial flutter	Cardiovascular	
+1484	wolff parkinson white / wpw syndrome	Cardiovascular	
+1485	irregular heart beat	Cardiovascular	
+1486	sick sinus syndrome	Cardiovascular	
+1487	svt / supraventricular tachycardia	Cardiovascular	
+1488	mitral valve prolapse	Cardiovascular	
+1489	mitral stenosis	Cardiovascular	
+1490	aortic stenosis	Cardiovascular	
+1491	brain haemorrhage	Cardiovascular	
+1492	aortic aneurysm	Cardiovascular	
+1493	other venous/lymphatic disease	Cardiovascular	
+1494	varicose veins	Cardiovascular	
+1495	lymphoedema	Other	
+1496	alpha-1 antitrypsin deficiency	Respiratory	
+1497	pneumothorax	Respiratory	Pleural
+1498	empyema	exclude	
+1499	labyrinthitis	Otolaryngological	
+1500	vertigo	Otolaryngological	
+1501	pyloric stenosis	Gastrointestinal	
+1502	appendicitis	Gastrointestinal	
+1503	anal problem	Gastrointestinal	
+1504	anal fissure	Gastrointestinal	
+1505	haemorrhoids / piles	Gastrointestinal	
+1506	primary biliary cirrhosis	Gastrointestinal	Hepatobiliary
+1507	haemochromatosis	Gastrointestinal	
+1508	jaundice (unknown cause)	Other	
+1509	gastroenteritis/dysentry	Exclude	
+1510	dyspepsia / indigestion	Gastrointestinal	
+1511	abdominal hernia	Abdominal	
+1512	umbilical hernia	Abdominal	
+1513	inguinal hernia	Abdominal	
+1514	cystitis	exclude	
+1515	pyelonephritis	exclude	
+1516	bph / benign prostatic hypertrophy	Urological	
+1517	prostatitis	Urological	
+1518	erectile dysfunction / impotence	Urological	
+1519	kidney nephropathy	Renal	
+1520	iga nephropathy	Renal	Autoimmune
+1521	diabetes insipidus	Endocrine	
+1522	grave's disease	Endocrine	
+1523	trigemminal neuralgia	Neurological	
+1524	spina bifida	Neurological	
+1525	benign / essential tremor	Other	
+1526	polio / poliomyelitis	exclude	
+1527	retinitis pigmentosa	Opthalmological	
+1528	macular degeneration	Opthalmological	
+1529	dry eyes	Opthalmological	
+1530	iritis	Opthalmological	
+1531	post-natal depression	exclude	
+1532	disc problem	Rheumatological	
+1533	disc degeneration	Rheumatological	
+1534	back pain	exclude	
+1535	scoliosis	Rheumatological	
+1536	spinal stenosis	Rheumatological	
+1537	joint pain	exclude	
+1538	arthritis (nos)	Rheumatological	
+1540	plantar fascitis	Rheumatological	
+1541	carpal tunnel syndrome	Rheumatological	
+1542	fibromyalgia	Rheumatological	
+1544	dupuytren's contracture	Rheumatological	
+1545	neck problem/injury	exclude	
+1546	essential thrombocytosis	Haematological	
+1548	acne/acne vulgaris	Dermatological	
+1549	lichen planus	Dermatological	
+1550	lichen sclerosis	Dermatological	
+1551	ovarian problem	Gynaecological	
+1552	uterine problem	Gynaecological	
+1553	cervical problem	Gynaecological	
+1554	cervical intra-epithelial neoplasia (cin) / precancerous cells cervix	Gynaecological	
+1555	cervical polyps	Gynaecological	
+1556	menorrhagia (unknown cause)	Gynaecological	
+1557	pelvic inflammatory disease/ pid	Gynaecological	
+1558	ectopic pregnancy	Other	
+1559	miscarriage	Other	
+1560	breast fibroadenoma	Gynaecological	
+1561	raynaud's phenomenon/disease	Rheumatological	
+1562	food intolerance	exclude	
+1563	urticaria	Dermatological	Allergy
+1564	antiphospholipid syndrome	Haematological	Autoimmune
+1566	mrsa / methicillin resistant staphylococcus aureus	exclude	
+1567	infectious mononucleosis / glandular fever / epstein barr virus (ebv)	exclude	
+1568	measles / morbillivirus	exclude	
+1569	mumps / epidemic parotitis	exclude	
+1570	rubella / german measles	exclude	
+1571	chickenpox	exclude	
+1572	whooping cough / pertussis	exclude	
+1573	shingles	exclude	
+1574	diphtheria	exclude	
+1575	herpes simplex	exclude	
+1576	dengue fever	exclude	
+1577	typhoid fever	exclude	
+1578	hepatitis a	exclude	
+1579	hepatitis b	exclude	
+1580	hepatitis c	exclude	
+1581	hepatitis d	exclude	
+1582	hepatitis e	exclude	
+1583	ischaemic stroke	Cardiovascular	
+1584	mitral valve disease	Cardiovascular	
+1585	mitral regurgitation / incompetence	Cardiovascular	
+1586	aortic valve disease	Cardiovascular	
+1587	aortic regurgitation / incompetence	Cardiovascular	
+1588	hypertrophic cardiomyopathy (hcm / hocm)	Cardiovascular	
+1589	pericarditis	Cardiovascular	
+1590	pericardial effusion	Cardiovascular	
+1591	aortic aneurysm rupture	Cardiovascular	
+1592	aortic dissection	Cardiovascular	
+1593	varicose ulcer	Cardiovascular	
+1594	respiratory infection	exclude	
+1595	pleural plaques (not known asbestosis)	Respiratory	Pleural
+1596	pleural effusion	Respiratory	Pleural
+1597	tinnitus / tiniitis	Otolaryngological	
+1598	tonsiltis	exclude	
+1599	constipation	exclude	
+1600	bowel / intestinal perforation	Gastrointestinal	
+1601	bowel / intestinal infarction	Gastrointestinal	
+1602	bowel / intestinal obstruction	Gastrointestinal	
+1603	rectal prolapse	Gastrointestinal	
+1604	alcoholic liver disease / alcoholic cirrhosis	Gastrointestinal	Hepatobiliary
+1605	femoral hernia	Abdominal	
+1606	incisional hernia	exclude	
+1607	diabetic nephropathy	Endocrine	Renal
+1608	nephritis	Renal	
+1609	glomerulnephritis	Renal	
+1610	thyroid goitre	Endocrine	
+1611	hyperparathyroidism	Endocrine	
+1613	blepharitis / eyelid infection	Opthalmological	
+1614	stress	exclude	
+1615	obsessive compulsive disorder (ocd)	exclude	
+1616	insomnia	exclude	
+1617	osteopenia	Rheumatological	
+1618	soft tissue inflammation	Rheumatological	
+1619	tendonitis / tendinitis / tenosynovitis	Rheumatological	
+1620	bursitis	Rheumatological	
+1621	synovitis	Rheumatological	
+1622	epicondylitis	Rheumatological	
+1623	tennis elbow / lateral epicondylitis	exclude	
+1624	housemaid's knee (prepatellar bursitis)	exclude	
+1625	cellulitis	exclude	
+1626	fracture skull / head	exclude	
+1627	fracture jaw	exclude	
+1628	fracture nose	exclude	
+1629	fracture face / orbit / eye socket	exclude	
+1630	fracture neck / cervical fracture	exclude	
+1631	fracture clavicle / collar bone	exclude	
+1632	fracture shoulder / scapula	exclude	
+1633	fracture upper arm / humerus / elbow	exclude	
+1634	fracture forearm / wrist	exclude	
+1635	fracture radius	exclude	
+1636	fracture ulna	exclude	
+1637	fracture wrist / colles fracture	exclude	
+1638	fracture hand	exclude	
+1639	fracture finger	exclude	
+1640	fracture thumb	exclude	
+1644	fracture rib	exclude	
+1645	fracture sternum	exclude	
+1646	fracture vertebra / crush fracture / vertebral collapse	exclude	
+1647	fracture pelvis	exclude	
+1648	fracture neck of femur / hip	exclude	
+1649	fracture shaft of femur	exclude	
+1650	fracture patella / knee	exclude	
+1651	fracture lower leg / ankle	exclude	
+1652	fracture tibia	exclude	
+1653	fracture fibula	exclude	
+1654	fracture foot	exclude	
+1655	fracture metatarsal	exclude	
+1656	fracture toe	exclude	
+1657	septicaemia / sepsis	exclude	
+1658	myelofibrosis	Haematological	
+1659	meningioma / benign meningeal tumour	exclude	
+1660	rosacea	Dermatological	
+1661	vitiligo	Dermatological	
+1662	cervical erosion	Gynaecological	
+1663	abnormal smear (cervix)	Gynaecological	
+1664	dysmenorrhoea / dysmenorrhea	Gynaecological	
+1665	menopausal symptoms / menopause	Gynaecological	
+1666	benign breast lump	Gynaecological	
+1667	alopecia / hair loss	Dermatological	
+1668	allergy to house dust mite	Allergy	
+1669	contact dermatitis	Dermatological	Allergy
+1670	allergy to elastoplast	Dermatological	Allergy
+1671	allergy to nickel	Dermatological	Allergy
+1674	varicella zoster virus	exclude	
+1675	giardia / giardiasis	exclude	
+1676	yellow fever	exclude	
+1677	scarlet fever / scarlatina	exclude	
+1678	chlamydia	exclude	
+1679	undescended testicle	Urological	
+1680	bowen's disease	exclude	
+1681	hydatiform mole	Other	
+1682	benign insulinoma	exclude	
+1683	benign neuroma	exclude	
